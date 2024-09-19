@@ -1,0 +1,138 @@
+[
+      {
+        "title": "Engine Overheating",
+        "description": "The engine temperature exceeds normal operating levels, indicating potential coolant issues.",
+        "serial_number": "ENG123456",
+        "make": "Caterpillar",
+        "model": "D6T",
+        "severity": "urgent",
+        "image": "https://example.com/images/engine_overheating.jpg"
+      },
+      {
+        "title": "Hydraulic Leak",
+        "description": "Visible hydraulic fluid leaking from hoses, which may lead to pressure loss and equipment failure.",
+        "serial_number": "HYD789012",
+        "make": "John Deere",
+        "model": "450K",
+        "severity": "high",
+        "image": "https://example.com/images/hydraulic_leak.jpg"
+      },
+      {
+        "title": "Electrical Failure",
+        "description": "The electrical system is not responding, causing operational disruptions and safety risks.",
+        "serial_number": "ELE345678",
+        "make": "Komatsu",
+        "model": "PC200",
+        "severity": "critical",
+        "image": "https://example.com/images/electrical_failure.jpg"
+      },
+      {
+        "title": "Tire Damage",
+        "description": "Severe wear and tear or punctures detected in the tires, requiring immediate replacement.",
+        "serial_number": "TIR901234",
+        "make": "Volvo",
+        "model": "EC950F",
+        "severity": "medium",
+        "image": "https://example.com/images/tire_damage.jpg"
+      },
+      {
+        "title": "Transmission Issues",
+        "description": "Problems with gear shifting or unusual noises from the transmission, suggesting potential failure.",
+        "serial_number": "TRA567890",
+        "make": "Case",
+        "model": "570N EP",
+        "severity": "high",
+        "image": "https://example.com/images/transmission_issues.jpg"
+      },
+      {
+        "title": "Fuel System Blockage",
+        "description": "Blockage in the fuel lines causing reduced engine performance and efficiency.",
+        "serial_number": "FUEL123456",
+        "make": "Bobcat",
+        "model": "E165",
+        "severity": "urgent",
+        "image": "https://example.com/images/fuel_blockage.jpg"
+      },
+      {
+        "title": "Cooling System Failure",
+        "description": "Failure in the cooling system leading to increased risk of engine overheating.",
+        "serial_number": "COOL789012",
+        "make": "Hitachi",
+        "model": "ZX135US-6",
+        "severity": "high",
+        "image": "https://example.com/images/cooling_failure.jpg"
+      },
+      {
+        "title": "Belt Wear",
+        "description": "Significant wear on drive belts, which may affect machinery performance.",
+        "serial_number": "BELT345678",
+        "make": "JCB",
+        "model": "3CX",
+        "severity": "medium",
+        "image": "https://example.com/images/belt_wear.jpg"
+      },
+      {
+        "title": "Brake Malfunction",
+        "description": "Unresponsive or spongy brakes, posing a safety risk during operation.",
+        "serial_number": "BRAKE901234",
+        "make": "New Holland",
+        "model": "L218",
+        "severity": "critical",
+        "image": "https://example.com/images/brake_malfunction.jpg"
+      },
+      {
+        "title": "Exhaust Emissions Problem",
+        "description": "Increased exhaust emissions indicating potential engine tuning or catalytic converter issues.",
+        "serial_number": "EXH567890",
+        "make": "Mitsubishi",
+        "model": "D155AX-7",
+        "severity": "high",
+        "image": "https://example.com/images/exhaust_problem.jpg"
+      },
+      {
+        "title": "Control Panel Error",
+        "description": "Error messages on the control panel, indicating malfunction in machinery operation.",
+        "serial_number": "CTRL123456",
+        "make": "Kubota",
+        "model": "KX080-4",
+        "severity": "medium",
+        "image": "https://example.com/images/control_panel_error.jpg"
+      },
+      {
+        "title": "Chassis Damage",
+        "description": "Visible damage to the chassis structure that may compromise stability and safety.",
+        "serial_number": "CHASS789012",
+        "make": "Case",
+        "model": "CX210C",
+        "severity": "critical",
+        "image": "https://example.com/images/chassis_damage.jpg"
+      },
+      {
+        "title": "Hydraulic System Failure",
+        "description": "Loss of hydraulic power affecting functionality and efficiency.",
+        "serial_number": "HYD345678",
+        "make": "CAT",
+        "model": "320D",
+        "severity": "urgent",
+        "image": "https://example.com/images/hydraulic_failure.jpg"
+      },
+      {
+        "title": "Torque Converter Issues",
+        "description": "Problems with the torque converter leading to reduced transmission efficiency.",
+        "serial_number": "TORQ901234",
+        "make": "Komatsu",
+        "model": "WA470-8",
+        "severity": "high",
+        "image": "https://example.com/images/torque_converter_issues.jpg"
+      },
+      {
+        "title": "PTO Malfunction",
+        "description": "Power Take-Off (PTO) not engaging, affecting attachment performance.",
+        "serial_number": "PTO567890",
+        "make": "Mahindra",
+        "model": "2516",
+        "severity": "medium",
+        "image": "https://example.com/images/pto_malfunction.jpg"
+      }
+    ]
+  
