@@ -1,0 +1,48 @@
+[
+    {
+      "title": "Brake Fluid Leak",
+      "description": "A leak in the brake fluid system, which could lead to brake failure and compromise safety.",
+      "serial_number": "BRAKE345678",
+      "make": "CAT",
+      "model": "936M",
+      "severity": "critical",
+      "image": "https://example.com/images/brake_fluid_leak.jpg"
+    },
+    {
+      "title": "Generator Failure",
+      "description": "The generator is not producing power, which can disrupt operations and lead to equipment downtime.",
+      "serial_number": "GEN123456",
+      "make": "Deutz",
+      "model": "F4L912",
+      "severity": "urgent",
+      "image": "https://example.com/images/generator_failure.jpg"
+    },
+    {
+      "title": "Oil Pressure Warning",
+      "description": "Low oil pressure warning indicating potential lubrication issues that could damage the engine.",
+      "serial_number": "OIL789012",
+      "make": "Wirtgen",
+      "model": "W210i",
+      "severity": "high",
+      "image": "https://example.com/images/oil_pressure_warning.jpg"
+    },
+    {
+      "title": "Fuel Injector Failure",
+      "description": "Malfunctioning fuel injectors causing poor engine performance and increased emissions.",
+      "serial_number": "FUEL456789",
+      "make": "Perkins",
+      "model": "804D-33T",
+      "severity": "high",
+      "image": "https://example.com/images/fuel_injector_failure.jpg"
+    },
+    {
+      "title": "Transmission Fluid Leak",
+      "description": "Fluid leaking from the transmission, which can lead to loss of power and shifting issues.",
+      "serial_number": "TRA345678",
+      "make": "Caterpillar",
+      "model": "930K",
+      "severity": "medium",
+      "image": "https://example.com/images/transmission_fluid_leak.jpg"
+    }
+  ]
+  

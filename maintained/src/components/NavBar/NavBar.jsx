@@ -28,13 +28,8 @@ const Search = styled('div')(({ theme }) => ({
   '&:hover': {
     backgroundColor: alpha(theme.palette.common.white, 0.25),
   },
-  marginRight: theme.spacing(2),
-  marginLeft: 0,
-  width: '100%',
-  [theme.breakpoints.up('sm')]: {
-    marginLeft: theme.spacing(3),
-    width: 'auto',
-  },
+  width: '50%',
+  margin: '0 auto',
 }));
 
 const SearchIconWrapper = styled('div')(({ theme }) => ({
@@ -55,7 +50,7 @@ const StyledInputBase = styled(InputBase)(({ theme }) => ({
     transition: theme.transitions.create('width'),
     width: '100%',
     [theme.breakpoints.up('md')]: {
-      width: '20ch',
+      width: '100%',
     },
   },
 }));
@@ -150,30 +145,19 @@ export default function PrimarySearchAppBar() {
     </Menu>
   );
 
-  // Define pages and settings arrays or remove their usage
-  const pages = ['Home', 'About', 'Contact'];
-  const settings = ['Profile', 'Account', 'Logout'];
+  const pages = ['Faults', 'Units', 'Customers', 'Team'];
 
   return (
     <Box sx={{ flexGrow: 1 }}>
       <AppBar position="static">
-        <Toolbar>
-          <IconButton
-            size="large"
-            edge="start"
-            color="inherit"
-            aria-label="open drawer"
-            sx={{ mr: 2 }}
-          >
-            <MenuIcon />
-          </IconButton>
+        <Toolbar sx={{ padding: '0.5rem 1rem' }}>
           <Typography
             variant="h6"
             noWrap
             component="div"
             sx={{ display: { xs: 'none', sm: 'block' } }}
           >
-            MUI
+            Maintained
           </Typography>
           <Box sx={{ flexGrow: 1, display: { xs: 'flex', md: 'none' } }}>
             <IconButton
@@ -226,13 +210,12 @@ export default function PrimarySearchAppBar() {
               <Button
                 key={page}
                 onClick={handleCloseNavMenu}
-                sx={{ my: 2, color: 'white', display: 'block' }}
+                sx={{ my: 0, color: 'white', display: 'block' }}
               >
                 {page}
               </Button>
             ))}
           </Box>
-       
           <Search>
             <SearchIconWrapper>
               <SearchIcon />
@@ -242,8 +225,7 @@ export default function PrimarySearchAppBar() {
               inputProps={{ 'aria-label': 'search' }}
             />
           </Search>
-          <Box sx={{ flexGrow: 1 }} />
-          <Box sx={{ display: { xs: 'none', md: 'flex' } }}>
+          <Box sx={{ flexGrow: 0 }}>
             <IconButton size="large" aria-label="show 4 new mails" color="inherit">
               <Badge badgeContent={4} color="error">
                 <MailIcon />

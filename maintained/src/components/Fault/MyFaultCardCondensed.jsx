@@ -4,7 +4,7 @@ import CardActions from '@mui/material/CardActions';
 import CardContent from '@mui/material/CardContent';
 import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
-import Grid from '@mui/material/Grid';
+import Grid from '@mui/material/Grid'; // Correct import
 
 export default function myFaultCard({ fault }) {
   return (
@@ -31,7 +31,7 @@ export default function myFaultCard({ fault }) {
             </Typography>
             <CardActions sx={{justifyContent: "center"}}>
               <Button size="small">Open</Button>
-              <Button size="small">Add to my list</Button>
+              <Button size="small">Remove from my list</Button>
             </CardActions>
           </Grid>
         </Grid>

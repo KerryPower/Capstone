@@ -1,0 +1,317 @@
+[
+    {
+        "make": "Caterpillar",
+        "model": "D6T",
+        "serial_number": "ENG123456",
+        "owner": "Company A",
+        "number_of_faults": 3
+    },
+    {
+        "make": "John Deere",
+        "model": "450K",
+        "serial_number": "HYD789012",
+        "owner": "Company B",
+        "number_of_faults": 1
+    },
+    {
+        "make": "Komatsu",
+        "model": "PC200",
+        "serial_number": "ELE345678",
+        "owner": "Company C",
+        "number_of_faults": 2
+    },
+    {
+        "make": "Volvo",
+        "model": "EC950F",
+        "serial_number": "TIR901234",
+        "owner": "Company D",
+        "number_of_faults": 0
+    },
+    {
+        "make": "Case",
+        "model": "570N EP",
+        "serial_number": "TRA567890",
+        "owner": "Company E",
+        "number_of_faults": 4
+    },
+    {
+        "make": "Bobcat",
+        "model": "E165",
+        "serial_number": "FUEL123456",
+        "owner": "Company F",
+        "number_of_faults": 2
+    },
+    {
+        "make": "Hitachi",
+        "model": "ZX135US-6",
+        "serial_number": "COOL789012",
+        "owner": "Company G",
+        "number_of_faults": 3
+    },
+    {
+        "make": "JCB",
+        "model": "3CX",
+        "serial_number": "BELT345678",
+        "owner": "Company H",
+        "number_of_faults": 1
+    },
+    {
+        "make": "New Holland",
+        "model": "L218",
+        "serial_number": "BRAKE901234",
+        "owner": "Company I",
+        "number_of_faults": 5
+    },
+    {
+        "make": "Mitsubishi",
+        "model": "D155AX-7",
+        "serial_number": "EXH567890",
+        "owner": "Company J",
+        "number_of_faults": 2
+    },
+    {
+        "make": "Kubota",
+        "model": "KX080-4",
+        "serial_number": "CTRL123456",
+        "owner": "Company K",
+        "number_of_faults": 0
+    },
+    {
+        "make": "Case",
+        "model": "CX210C",
+        "serial_number": "CHASS789012",
+        "owner": "Company L",
+        "number_of_faults": 3
+    },
+    {
+        "make": "CAT",
+        "model": "320D",
+        "serial_number": "HYD345678",
+        "owner": "Company M",
+        "number_of_faults": 1
+    },
+    {
+        "make": "Komatsu",
+        "model": "WA470-8",
+        "serial_number": "TORQ901234",
+        "owner": "Company N",
+        "number_of_faults": 4
+    },
+    {
+        "make": "Mahindra",
+        "model": "2516",
+        "serial_number": "PTO567890",
+        "owner": "Company O",
+        "number_of_faults": 0
+    },
+    {
+        "make": "Caterpillar",
+        "model": "D6T",
+        "serial_number": "ENG123457",
+        "owner": "Company P",
+        "number_of_faults": 2
+    },
+    {
+        "make": "John Deere",
+        "model": "450K",
+        "serial_number": "HYD789013",
+        "owner": "Company Q",
+        "number_of_faults": 1
+    },
+    {
+        "make": "Komatsu",
+        "model": "PC200",
+        "serial_number": "ELE345679",
+        "owner": "Company R",
+        "number_of_faults": 3
+    },
+    {
+        "make": "Volvo",
+        "model": "EC950F",
+        "serial_number": "TIR901235",
+        "owner": "Company S",
+        "number_of_faults": 2
+    },
+    {
+        "make": "Case",
+        "model": "570N EP",
+        "serial_number": "TRA567891",
+        "owner": "Company T",
+        "number_of_faults": 4
+    },
+    {
+        "make": "Bobcat",
+        "model": "E165",
+        "serial_number": "FUEL123457",
+        "owner": "Company U",
+        "number_of_faults": 1
+    },
+    {
+        "make": "Hitachi",
+        "model": "ZX135US-6",
+        "serial_number": "COOL789013",
+        "owner": "Company V",
+        "number_of_faults": 0
+    },
+    {
+        "make": "JCB",
+        "model": "3CX",
+        "serial_number": "BELT345679",
+        "owner": "Company W",
+        "number_of_faults": 3
+    },
+    {
+        "make": "New Holland",
+        "model": "L218",
+        "serial_number": "BRAKE901235",
+        "owner": "Company X",
+        "number_of_faults": 5
+    },
+    {
+        "make": "Mitsubishi",
+        "model": "D155AX-7",
+        "serial_number": "EXH567891",
+        "owner": "Company Y",
+        "number_of_faults": 2
+    },
+    {
+        "make": "Kubota",
+        "model": "KX080-4",
+        "serial_number": "CTRL123457",
+        "owner": "Company Z",
+        "number_of_faults": 0
+    },
+    {
+        "make": "Case",
+        "model": "CX210C",
+        "serial_number": "CHASS789013",
+        "owner": "Company AA",
+        "number_of_faults": 3
+    },
+    {
+        "make": "CAT",
+        "model": "320D",
+        "serial_number": "HYD345679",
+        "owner": "Company AB",
+        "number_of_faults": 1
+    },
+    {
+        "make": "Komatsu",
+        "model": "WA470-8",
+        "serial_number": "TORQ901235",
+        "owner": "Company AC",
+        "number_of_faults": 4
+    },
+    {
+        "make": "Mahindra",
+        "model": "2516",
+        "serial_number": "PTO567891",
+        "owner": "Company AD",
+        "number_of_faults": 0
+    },
+    {
+        "make": "Caterpillar",
+        "model": "D6T",
+        "serial_number": "ENG123458",
+        "owner": "Company AE",
+        "number_of_faults": 2
+    },
+    {
+        "make": "John Deere",
+        "model": "450K",
+        "serial_number": "HYD789014",
+        "owner": "Company AF",
+        "number_of_faults": 1
+    },
+    {
+        "make": "Komatsu",
+        "model": "PC200",
+        "serial_number": "ELE345680",
+        "owner": "Company AG",
+        "number_of_faults": 3
+    },
+    {
+        "make": "Volvo",
+        "model": "EC950F",
+        "serial_number": "TIR901236",
+        "owner": "Company AH",
+        "number_of_faults": 2
+    },
+    {
+        "make": "Case",
+        "model": "570N EP",
+        "serial_number": "TRA567892",
+        "owner": "Company AI",
+        "number_of_faults": 4
+    },
+    {
+        "make": "Bobcat",
+        "model": "E165",
+        "serial_number": "FUEL123458",
+        "owner": "Company AJ",
+        "number_of_faults": 1
+    },
+    {
+        "make": "Hitachi",
+        "model": "ZX135US-6",
+        "serial_number": "COOL789014",
+        "owner": "Company AK",
+        "number_of_faults": 0
+    },
+    {
+        "make": "JCB",
+        "model": "3CX",
+        "serial_number": "BELT345680",
+        "owner": "Company AL",
+        "number_of_faults": 3
+    },
+    {
+        "make": "New Holland",
+        "model": "L218",
+        "serial_number": "BRAKE901236",
+        "owner": "Company AM",
+        "number_of_faults": 5
+    },
+    {
+        "make": "Mitsubishi",
+        "model": "D155AX-7",
+        "serial_number": "EXH567892",
+        "owner": "Company AN",
+        "number_of_faults": 2
+    },
+    {
+        "make": "Kubota",
+        "model": "KX080-4",
+        "serial_number": "CTRL123458",
+        "owner": "Company AO",
+        "number_of_faults": 0
+    },
+    {
+        "make": "Case",
+        "model": "CX210C",
+        "serial_number": "CHASS789014",
+        "owner": "Company AP",
+        "number_of_faults": 3
+    },
+    {
+        "make": "CAT",
+        "model": "320D",
+        "serial_number": "HYD345680",
+        "owner": "Company AQ",
+        "number_of_faults": 1
+    },
+    {
+        "make": "Komatsu",
+        "model": "WA470-8",
+        "serial_number": "TORQ901236",
+        "owner": "Company AR",
+        "number_of_faults": 4
+    },
+    {
+        "make": "Mahindra",
+        "model": "2516",
+        "serial_number": "PTO567892",
+        "owner": "Company AS",
+        "number_of_faults": 0
+    }
+]
