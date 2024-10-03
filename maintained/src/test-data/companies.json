@@ -1,0 +1,182 @@
+[
+    {
+        "company_id": 1,
+        "company_name": "Kiwi Builders Ltd",
+        "contact_name": "Alice Thompson",
+        "phone": 6123456789,
+        "email": "alice@kiwibuilders.nz",
+        "address": "123 Kiwi St, Auckland, NZ",
+        "business_type": 1
+    },
+    {
+        "company_id": 2,
+        "company_name": "North Shore Construction",
+        "contact_name": "Bob Smith",
+        "phone": 6234567890,
+        "email": "bob@northshoreconstruction.nz",
+        "address": "456 Shoreline Rd, Auckland, NZ",
+        "business_type": 1
+    },
+    {
+        "company_id": 3,
+        "company_name": "Auckland Concrete Co.",
+        "contact_name": "Charlie Brown",
+        "phone": 6345678901,
+        "email": "charlie@aucklandconcrete.nz",
+        "address": "789 Concrete Blvd, Auckland, NZ",
+        "business_type": 1
+    },
+    {
+        "company_id": 4,
+        "company_name": "Southern Building Group",
+        "contact_name": "Dana White",
+        "phone": 6456789012,
+        "email": "dana@southernbuilding.nz",
+        "address": "101 Southern Ave, Christchurch, NZ",
+        "business_type": 1
+    },
+    {
+        "company_id": 5,
+        "company_name": "Greenfield Construction",
+        "contact_name": "Eve Davis",
+        "phone": 6567890123,
+        "email": "eve@greenfieldconstruction.nz",
+        "address": "202 Greenfield Rd, Wellington, NZ",
+        "business_type": 1
+    },
+    {
+        "company_id": 6,
+        "company_name": "Titan Builders",
+        "contact_name": "Frank Miller",
+        "phone": 6678901234,
+        "email": "frank@titanbuilders.nz",
+        "address": "303 Titan St, Hamilton, NZ",
+        "business_type": 1
+    },
+    {
+        "company_id": 7,
+        "company_name": "Coastal Homes Ltd",
+        "contact_name": "Grace Lee",
+        "phone": 6789012345,
+        "email": "grace@coastalhomes.nz",
+        "address": "404 Coastal Dr, Tauranga, NZ",
+        "business_type": 1
+    },
+    {
+        "company_id": 8,
+        "company_name": "Quality Constructions",
+        "contact_name": "Hank Wilson",
+        "phone": 6890123456,
+        "email": "hank@qualityconstructions.nz",
+        "address": "505 Quality Rd, Dunedin, NZ",
+        "business_type": 1
+    },
+    {
+        "company_id": 9,
+        "company_name": "Precision Builders",
+        "contact_name": "Ivy Clark",
+        "phone": 6901234567,
+        "email": "ivy@precisionbuilders.nz",
+        "address": "606 Precision Blvd, Napier, NZ",
+        "business_type": 1
+    },
+    {
+        "company_id": 10,
+        "company_name": "Urban Developments",
+        "contact_name": "Jack Harris",
+        "phone": 7012345678,
+        "email": "jack@urbandevelopments.nz",
+        "address": "707 Urban St, Palmerston North, NZ",
+        "business_type": 1
+    },
+    {
+        "company_id": 11,
+        "company_name": "Skyline Construction",
+        "contact_name": "Kate Young",
+        "phone": 7123456789,
+        "email": "kate@skylineconstruction.nz",
+        "address": "808 Skyline Rd, Wellington, NZ",
+        "business_type": 1
+    },
+    {
+        "company_id": 12,
+        "company_name": "Harbour View Builders",
+        "contact_name": "Leo Scott",
+        "phone": 7234567890,
+        "email": "leo@harbourviewbuilders.nz",
+        "address": "909 Harbour View Ave, Auckland, NZ",
+        "business_type": 1
+    },
+    {
+        "company_id": 13,
+        "company_name": "Foundation Works",
+        "contact_name": "Mia Turner",
+        "phone": 7345678901,
+        "email": "mia@foundationworks.nz",
+        "address": "101 Foundation Rd, Christchurch, NZ",
+        "business_type": 1
+    },
+    {
+        "company_id": 14,
+        "company_name": "NextGen Constructions",
+        "contact_name": "Noah Adams",
+        "phone": 7456789012,
+        "email": "noah@nextgenconstructions.nz",
+        "address": "202 NextGen Ave, Wellington, NZ",
+        "business_type": 1
+    },
+    {
+        "company_id": 15,
+        "company_name": "Eco-Friendly Builders",
+        "contact_name": "Olivia Baker",
+        "phone": 7567890123,
+        "email": "olivia@ecofriendlybuilders.nz",
+        "address": "303 Eco Rd, Auckland, NZ",
+        "business_type": 1
+    },
+    {
+        "company_id": 16,
+        "company_name": "Stone & Steel Ltd",
+        "contact_name": "Paul Hall",
+        "phone": 7678901234,
+        "email": "paul@stoneandsteel.nz",
+        "address": "404 Stone St, Hamilton, NZ",
+        "business_type": 1
+    },
+    {
+        "company_id": 17,
+        "company_name": "Landmark Builders",
+        "contact_name": "Quinn King",
+        "phone": 7789012345,
+        "email": "quinn@landmarkbuilders.nz",
+        "address": "505 Landmark Blvd, Tauranga, NZ",
+        "business_type": 1
+    },
+    {
+        "company_id": 18,
+        "company_name": "Summit Construction",
+        "contact_name": "Riley Perez",
+        "phone": 7890123456,
+        "email": "riley@summitconstruction.nz",
+        "address": "606 Summit St, Dunedin, NZ",
+        "business_type": 1
+    },
+    {
+        "company_id": 19,
+        "company_name": "Innovative Building Solutions",
+        "contact_name": "Sam Mitchell",
+        "phone": 7901234567,
+        "email": "sam@innovativebuildingsolutions.nz",
+        "address": "707 Innovative Ave, Auckland, NZ",
+        "business_type": 1
+    },
+    {
+        "company_id": 20,
+        "company_name": "Heritage Construction",
+        "contact_name": "Tina Roberts",
+        "phone": 8012345678,
+        "email": "tina@heritageconstruction.nz",
+        "address": "808 Heritage Rd, Christchurch, NZ",
+        "business_type": 1
+    }
+]

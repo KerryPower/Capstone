@@ -1,6 +1,5 @@
 'use client';
 
-import * as React from 'react';
 import { styled, alpha } from '@mui/material/styles';
 import AppBar from '@mui/material/AppBar';
 import Box from '@mui/material/Box';
@@ -20,6 +19,7 @@ import MoreIcon from '@mui/icons-material/MoreVert';
 import Avatar from '@mui/material/Avatar';
 import Tooltip from '@mui/material/Tooltip';
 import Button from '@mui/material/Button';
+import Link from 'next/link';
 
 const Search = styled('div')(({ theme }) => ({
   position: 'relative',
@@ -30,29 +30,6 @@ const Search = styled('div')(({ theme }) => ({
   },
   width: '50%',
   margin: '0 auto',
-}));
-
-const SearchIconWrapper = styled('div')(({ theme }) => ({
-  padding: theme.spacing(0, 2),
-  height: '100%',
-  position: 'absolute',
-  pointerEvents: 'none',
-  display: 'flex',
-  alignItems: 'center',
-  justifyContent: 'center',
-}));
-
-const StyledInputBase = styled(InputBase)(({ theme }) => ({
-  color: 'inherit',
-  '& .MuiInputBase-input': {
-    padding: theme.spacing(1, 1, 1, 0),
-    paddingLeft: `calc(1em + ${theme.spacing(4)})`,
-    transition: theme.transitions.create('width'),
-    width: '100%',
-    [theme.breakpoints.up('md')]: {
-      width: '100%',
-    },
-  },
 }));
 
 export default function PrimarySearchAppBar() {
@@ -145,7 +122,13 @@ export default function PrimarySearchAppBar() {
     </Menu>
   );
 
-  const pages = ['Faults', 'Units', 'Customers', 'Team'];
+  const pages = [
+    { name: 'Home', path: '/' },
+    { name: 'Faults', path: '/faults' },
+    { name: 'Units', path: '/units' },
+    { name: 'Companies', path: '/companies' },
+    { name: 'Team', path: '/team' }
+  ];
 
   return (
     <Box sx={{ flexGrow: 1 }}>
@@ -180,9 +163,11 @@ export default function PrimarySearchAppBar() {
               onClose={handleCloseNavMenu}
               sx={{ display: { xs: 'block', md: 'none' } }}
             >
-              {pages.map((page) => (
-                <MenuItem key={page} onClick={handleCloseNavMenu}>
-                  <Typography sx={{ textAlign: 'center' }}>{page}</Typography>
+              {pages.map(({ name, path }) => (
+                <MenuItem key={name} onClick={handleCloseNavMenu}>
+                  <Link href={path} style={{ textDecoration: 'none', color: 'inherit' }}>
+                    <Typography sx={{ textAlign: 'center' }}>{name}</Typography>
+                  </Link>
                 </MenuItem>
               ))}
             </Menu>
@@ -205,26 +190,20 @@ export default function PrimarySearchAppBar() {
           >
             LOGO
           </Typography>
-          <Box sx={{ flexGrow: 1, display: { xs: 'none', md: 'flex' } }}>
-            {pages.map((page) => (
+          <Box sx={{ flexGrow: 1, marginLeft:'100px', display: { xs: 'none', md: 'flex' } }}>
+            {pages.map(({ name, path }) => (
               <Button
-                key={page}
+                key={name}
                 onClick={handleCloseNavMenu}
-                sx={{ my: 0, color: 'white', display: 'block' }}
+                component={Link}
+                href={path}
+                sx={{ marginLeft: '10px', my: 0, color: 'white', display: 'block' }}
               >
-                {page}
+                {name}
               </Button>
             ))}
           </Box>
-          <Search>
-            <SearchIconWrapper>
-              <SearchIcon />
-            </SearchIconWrapper>
-            <StyledInputBase
-              placeholder="Search…"
-              inputProps={{ 'aria-label': 'search' }}
-            />
-          </Search>
+          
           <Box sx={{ flexGrow: 0 }}>
             <IconButton size="large" aria-label="show 4 new mails" color="inherit">
               <Badge badgeContent={4} color="error">

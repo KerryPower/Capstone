@@ -1,0 +1,502 @@
+[
+    {
+        "fault_id": 1,
+        "serial_number": "SN-001-CG",
+        "title": "Hydraulic Leak",
+        "description": "There is a noticeable hydraulic fluid leak under the unit.",
+        "pictures": ["https://s3.amazonaws.com/yourbucket/faults/hydraulic_leak.jpg"],
+        "user_id": 1,
+        "urgency": 3,
+        "list_state": null
+    },
+    {
+        "fault_id": 2,
+        "serial_number": "SN-002-WB",
+        "title": "Engine Overheating",
+        "description": "The engine temperature gauge is in the red zone.",
+        "pictures": [],
+        "user_id": 2,
+        "urgency": 4,
+        "list_state": null
+    },
+    {
+        "fault_id": 3,
+        "serial_number": "SN-003-ABC",
+        "title": "Broken Track",
+        "description": "The track is damaged and requires immediate attention.",
+        "pictures": ["https://s3.amazonaws.com/yourbucket/faults/broken_track.jpg"],
+        "user_id": 3,
+        "urgency": 5,
+        "list_state": null
+    },
+    {
+        "fault_id": 4,
+        "serial_number": "SN-002-SBC",
+        "title": "Battery Failure",
+        "description": "The battery is not holding a charge.",
+        "pictures": [],
+        "user_id": 4,
+        "urgency": 2,
+        "list_state": null
+    },
+    {
+        "fault_id": 5,
+        "serial_number": "SN-003-LM",
+        "title": "Fluid Contamination",
+        "description": "The hydraulic fluid appears contaminated.",
+        "pictures": ["https://s3.amazonaws.com/yourbucket/faults/fluid_contamination.jpg"],
+        "user_id": 5,
+        "urgency": 4,
+        "list_state": null
+    },
+    {
+        "fault_id": 6,
+        "serial_number": "SN-001-PB",
+        "title": "Tire Damage",
+        "description": "The front tire is severely worn.",
+        "pictures": [],
+        "user_id": 1,
+        "urgency": 3,
+        "list_state": null
+    },
+    {
+        "fault_id": 7,
+        "serial_number": "SN-001-MC",
+        "title": "Oil Leak",
+        "description": "An oil leak was detected during inspection.",
+        "pictures": ["https://s3.amazonaws.com/yourbucket/faults/oil_leak.jpg"],
+        "user_id": 2,
+        "urgency": 4,
+        "list_state": null
+    },
+    {
+        "fault_id": 8,
+        "serial_number": "SN-003-GE",
+        "title": "Engine Noise",
+        "description": "The engine is making unusual noises.",
+        "pictures": [],
+        "user_id": 3,
+        "urgency": 3,
+        "list_state": null
+    },
+    {
+        "fault_id": 9,
+        "serial_number": "SN-002-TA",
+        "title": "Electrical Issue",
+        "description": "There is an electrical malfunction.",
+        "pictures": ["https://s3.amazonaws.com/yourbucket/faults/electrical_issue.jpg"],
+        "user_id": 4,
+        "urgency": 5,
+        "list_state": null
+    },
+    {
+        "fault_id": 10,
+        "serial_number": "SN-002-LM",
+        "title": "Exhaust Problem",
+        "description": "The exhaust system is not functioning properly.",
+        "pictures": [],
+        "user_id": 5,
+        "urgency": 2,
+        "list_state": null
+    },
+    {
+        "fault_id": 11,
+        "serial_number": "SN-003-CB",
+        "title": "Transmission Failure",
+        "description": "The transmission is slipping.",
+        "pictures": ["https://s3.amazonaws.com/yourbucket/faults/transmission_failure.jpg"],
+        "user_id": 1,
+        "urgency": 5,
+        "list_state": null
+    },
+    {
+        "fault_id": 12,
+        "serial_number": "SN-001-GE",
+        "title": "Fuel Leak",
+        "description": "A fuel leak was detected under the unit.",
+        "pictures": [],
+        "user_id": 2,
+        "urgency": 4,
+        "list_state": null
+    },
+    {
+        "fault_id": 13,
+        "serial_number": "SN-002-WB",
+        "title": "Brake Failure",
+        "description": "Brakes are not responding effectively.",
+        "pictures": ["https://s3.amazonaws.com/yourbucket/faults/brake_failure.jpg"],
+        "user_id": 3,
+        "urgency": 5,
+        "list_state": null
+    },
+    {
+        "fault_id": 14,
+        "serial_number": "SN-003-SBC",
+        "title": "Control Panel Issue",
+        "description": "The control panel is unresponsive.",
+        "pictures": [],
+        "user_id": 4,
+        "urgency": 3,
+        "list_state": null
+    },
+    {
+        "fault_id": 15,
+        "serial_number": "SN-001-TA",
+        "title": "Hydraulic System Malfunction",
+        "description": "The hydraulic system is not functioning correctly.",
+        "pictures": ["https://s3.amazonaws.com/yourbucket/faults/hydraulic_system.jpg"],
+        "user_id": 5,
+        "urgency": 5,
+        "list_state": null
+    },
+    {
+        "fault_id": 16,
+        "serial_number": "SN-002-PB",
+        "title": "Temperature Sensor Fault",
+        "description": "The temperature sensor is faulty.",
+        "pictures": [],
+        "user_id": 1,
+        "urgency": 2,
+        "list_state": null
+    },
+    {
+        "fault_id": 17,
+        "serial_number": "SN-001-CB",
+        "title": "Hydraulic Hose Replacement",
+        "description": "The hydraulic hose needs replacement.",
+        "pictures": ["https://s3.amazonaws.com/yourbucket/faults/hydraulic_hose.jpg"],
+        "user_id": 2,
+        "urgency": 4,
+        "list_state": null
+    },
+    {
+        "fault_id": 18,
+        "serial_number": "SN-003-WB",
+        "title": "Wear and Tear",
+        "description": "Normal wear and tear observed.",
+        "pictures": [],
+        "user_id": 3,
+        "urgency": 1,
+        "list_state": null
+    },
+    {
+        "fault_id": 19,
+        "serial_number": "SN-001-LM",
+        "title": "Wheel Alignment Issue",
+        "description": "The wheel alignment appears to be off.",
+        "pictures": ["https://s3.amazonaws.com/yourbucket/faults/wheel_alignment.jpg"],
+        "user_id": 4,
+        "urgency": 3,
+        "list_state": null
+    },
+    {
+        "fault_id": 20,
+        "serial_number": "SN-002-GE",
+        "title": "Cold Start Issue",
+        "description": "The unit has trouble starting in cold weather.",
+        "pictures": [],
+        "user_id": 5,
+        "urgency": 4,
+        "list_state": null
+    },
+    {
+        "fault_id": 21,
+        "serial_number": "SN-003-TA",
+        "title": "Engine Oil Change Required",
+        "description": "The engine oil needs to be changed soon.",
+        "pictures": [],
+        "user_id": 1,
+        "urgency": 2,
+        "list_state": null
+    },
+    {
+        "fault_id": 22,
+        "serial_number": "SN-001-MC",
+        "title": "Clutch Adjustment Needed",
+        "description": "The clutch requires adjustment.",
+        "pictures": ["https://s3.amazonaws.com/yourbucket/faults/clutch_adjustment.jpg"],
+        "user_id": 2,
+        "urgency": 3,
+        "list_state": null
+    },
+    {
+        "fault_id": 23,
+        "serial_number": "SN-002-CG",
+        "title": "Fuel Filter Change",
+        "description": "The fuel filter needs replacement.",
+        "pictures": [],
+        "user_id": 3,
+        "urgency": 2,
+        "list_state": null
+    },
+    {
+        "fault_id": 24,
+        "serial_number": "SN-001-WB",
+        "title": "Starter Motor Issue",
+        "description": "The starter motor is malfunctioning.",
+        "pictures": ["https://s3.amazonaws.com/yourbucket/faults/starter_motor.jpg"],
+        "user_id": 4,
+        "urgency": 5,
+        "list_state": null
+    },
+    {
+        "fault_id": 25,
+        "serial_number": "SN-002-LM",
+        "title": "Coolant Leak",
+        "description": "A coolant leak has been detected.",
+        "pictures": [],
+        "user_id": 5,
+        "urgency": 4,
+        "list_state": null
+    },
+    {
+        "fault_id": 26,
+        "serial_number": "SN-003-CG",
+        "title": "Power Steering Failure",
+        "description": "The power steering system is not functioning.",
+        "pictures": ["https://s3.amazonaws.com/yourbucket/faults/power_steering_failure.jpg"],
+        "user_id": 1,
+        "urgency": 5,
+        "list_state": null
+    },
+    {
+        "fault_id": 27,
+        "serial_number": "SN-001-GE",
+        "title": "Windshield Wiper Problem",
+        "description": "The windshield wipers are not working correctly.",
+        "pictures": [],
+        "user_id": 2,
+        "urgency": 3,
+        "list_state": null
+    },
+    {
+        "fault_id": 28,
+        "serial_number": "SN-002-TA",
+        "title": "Brake Fluid Check",
+        "description": "Brake fluid levels need to be checked.",
+        "pictures": [],
+        "user_id": 3,
+        "urgency": 2,
+        "list_state": null
+    },
+    {
+        "fault_id": 29,
+        "serial_number": "SN-001-SBC",
+        "title": "Suspension Noise",
+        "description": "Suspension noise detected during operation.",
+        "pictures": ["https://s3.amazonaws.com/yourbucket/faults/suspension_noise.jpg"],
+        "user_id": 4,
+        "urgency": 4,
+        "list_state": null
+    },
+    {
+        "fault_id": 30,
+        "serial_number": "SN-003-LM",
+        "title": "Battery Terminal Corrosion",
+        "description": "Corrosion observed on battery terminals.",
+        "pictures": [],
+        "user_id": 5,
+        "urgency": 3,
+        "list_state": null
+    },
+    {
+        "fault_id": 31,
+        "serial_number": "SN-002-MC",
+        "title": "Ignition Coil Failure",
+        "description": "The ignition coil is not functioning.",
+        "pictures": ["https://s3.amazonaws.com/yourbucket/faults/ignition_coil_failure.jpg"],
+        "user_id": 1,
+        "urgency": 5,
+        "list_state": null
+    },
+    {
+        "fault_id": 32,
+        "serial_number": "SN-001-PB",
+        "title": "AC Not Cooling",
+        "description": "The air conditioning system is not cooling.",
+        "pictures": [],
+        "user_id": 2,
+        "urgency": 4,
+        "list_state": null
+    },
+    {
+        "fault_id": 33,
+        "serial_number": "SN-003-GE",
+        "title": "Timing Belt Inspection Needed",
+        "description": "Timing belt should be inspected.",
+        "pictures": ["https://s3.amazonaws.com/yourbucket/faults/timing_belt.jpg"],
+        "user_id": 3,
+        "urgency": 3,
+        "list_state": null
+    },
+    {
+        "fault_id": 34,
+        "serial_number": "SN-002-TA",
+        "title": "Wheel Bearing Replacement",
+        "description": "Wheel bearings need to be replaced.",
+        "pictures": [],
+        "user_id": 4,
+        "urgency": 5,
+        "list_state": null
+    },
+    {
+        "fault_id": 35,
+        "serial_number": "SN-001-LM",
+        "title": "Transmission Fluid Change",
+        "description": "The transmission fluid needs to be changed.",
+        "pictures": ["https://s3.amazonaws.com/yourbucket/faults/transmission_fluid.jpg"],
+        "user_id": 5,
+        "urgency": 3,
+        "list_state": null
+    },
+    {
+        "fault_id": 36,
+        "serial_number": "SN-003-CB",
+        "title": "Fuel Pump Issue",
+        "description": "The fuel pump is not operating.",
+        "pictures": [],
+        "user_id": 1,
+        "urgency": 4,
+        "list_state": null
+    },
+    {
+        "fault_id": 37,
+        "serial_number": "SN-002-WB",
+        "title": "Brake Pad Replacement",
+        "description": "Brake pads are worn and need replacement.",
+        "pictures": ["https://s3.amazonaws.com/yourbucket/faults/brake_pad_replacement.jpg"],
+        "user_id": 2,
+        "urgency": 5,
+        "list_state": null
+    },
+    {
+        "fault_id": 38,
+        "serial_number": "SN-001-GE",
+        "title": "Cabin Filter Replacement",
+        "description": "The cabin air filter needs to be replaced.",
+        "pictures": [],
+        "user_id": 3,
+        "urgency": 2,
+        "list_state": null
+    },
+    {
+        "fault_id": 39,
+        "serial_number": "SN-003-TA",
+        "title": "Windshield Chip Repair",
+        "description": "A chip in the windshield needs repair.",
+        "pictures": ["https://s3.amazonaws.com/yourbucket/faults/windshield_chip.jpg"],
+        "user_id": 4,
+        "urgency": 3,
+        "list_state": null
+    },
+    {
+        "fault_id": 40,
+        "serial_number": "SN-002-LM",
+        "title": "Gearbox Oil Change",
+        "description": "The gearbox oil needs to be changed.",
+        "pictures": [],
+        "user_id": 5,
+        "urgency": 3,
+        "list_state": null
+    },
+    {
+        "fault_id": 41,
+        "serial_number": "SN-001-MC",
+        "title": "Lightbulb Replacement",
+        "description": "Headlight bulb needs replacement.",
+        "pictures": ["https://s3.amazonaws.com/yourbucket/faults/lightbulb_replacement.jpg"],
+        "user_id": 1,
+        "urgency": 2,
+        "list_state": null
+    },
+    {
+        "fault_id": 42,
+        "serial_number": "SN-003-SBC",
+        "title": "Fender Damage",
+        "description": "The front fender is damaged.",
+        "pictures": [],
+        "user_id": 2,
+        "urgency": 4,
+        "list_state": null
+    },
+    {
+        "fault_id": 43,
+        "serial_number": "SN-002-TA",
+        "title": "Brake Sensor Malfunction",
+        "description": "The brake sensor is malfunctioning.",
+        "pictures": ["https://s3.amazonaws.com/yourbucket/faults/brake_sensor.jpg"],
+        "user_id": 3,
+        "urgency": 5,
+        "list_state": null
+    },
+    {
+        "fault_id": 44,
+        "serial_number": "SN-001-WB",
+        "title": "Fuel Gauge Issue",
+        "description": "The fuel gauge is not accurate.",
+        "pictures": [],
+        "user_id": 4,
+        "urgency": 3,
+        "list_state": null
+    },
+    {
+        "fault_id": 45,
+        "serial_number": "SN-003-LM",
+        "title": "Head Gasket Leak",
+        "description": "There is a head gasket leak.",
+        "pictures": ["https://s3.amazonaws.com/yourbucket/faults/head_gasket.jpg"],
+        "user_id": 5,
+        "urgency": 5,
+        "list_state": null
+    },
+    {
+        "fault_id": 46,
+        "serial_number": "SN-002-CG",
+        "title": "Alternator Failure",
+        "description": "The alternator is not functioning.",
+        "pictures": [],
+        "user_id": 1,
+        "urgency": 4,
+        "list_state": null
+    },
+    {
+        "fault_id": 47,
+        "serial_number": "SN-001-PB",
+        "title": "Transmission Leak",
+        "description": "A transmission fluid leak has been detected.",
+        "pictures": ["https://s3.amazonaws.com/yourbucket/faults/transmission_leak.jpg"],
+        "user_id": 2,
+        "urgency": 5,
+        "list_state": null
+    },
+    {
+        "fault_id": 48,
+        "serial_number": "SN-003-GE",
+        "title": "Suspension Inspection Needed",
+        "description": "Suspension components need inspection.",
+        "pictures": [],
+        "user_id": 3,
+        "urgency": 3,
+        "list_state": null
+    },
+    {
+        "fault_id": 49,
+        "serial_number": "SN-002-WB",
+        "title": "Tail Light Replacement",
+        "description": "The tail light needs to be replaced.",
+        "pictures": ["https://s3.amazonaws.com/yourbucket/faults/tail_light_replacement.jpg"],
+        "user_id": 4,
+        "urgency": 2,
+        "list_state": null
+    },
+    {
+        "fault_id": 50,
+        "serial_number": "SN-001-CG",
+        "title": "Air Filter Change",
+        "description": "The air filter needs to be changed.",
+        "pictures": [],
+        "user_id": 5,
+        "urgency": 2,
+        "list_state": null
+    }
+]

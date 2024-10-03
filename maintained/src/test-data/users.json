@@ -1,0 +1,602 @@
+[
+    {
+        "user_id": 1,
+        "user_email": "alice.thompson@kiwibuilders.nz",
+        "first_name": "Alice",
+        "last_name": "Thompson",
+        "company_name": "Kiwi Builders Ltd",
+        "phone": 6123456789,
+        "user_name": "alice_t",
+        "user_level": 1
+    },
+    {
+        "user_id": 2,
+        "user_email": "john.doe@kiwibuilders.nz",
+        "first_name": "John",
+        "last_name": "Doe",
+        "company_name": "Kiwi Builders Ltd",
+        "phone": 6123456790,
+        "user_name": "john_d",
+        "user_level": 2
+    },
+    {
+        "user_id": 3,
+        "user_email": "jane.smith@kiwibuilders.nz",
+        "first_name": "Jane",
+        "last_name": "Smith",
+        "company_name": "Kiwi Builders Ltd",
+        "phone": 6123456791,
+        "user_name": "jane_s",
+        "user_level": 3
+    },
+    {
+        "user_id": 4,
+        "user_email": "bob.smith@northshoreconstruction.nz",
+        "first_name": "Bob",
+        "last_name": "Smith",
+        "company_name": "North Shore Construction",
+        "phone": 6234567890,
+        "user_name": "bob_s",
+        "user_level": 1
+    },
+    {
+        "user_id": 5,
+        "user_email": "lisa.jones@northshoreconstruction.nz",
+        "first_name": "Lisa",
+        "last_name": "Jones",
+        "company_name": "North Shore Construction",
+        "phone": 6234567891,
+        "user_name": "lisa_j",
+        "user_level": 2
+    },
+    {
+        "user_id": 6,
+        "user_email": "mark.brown@northshoreconstruction.nz",
+        "first_name": "Mark",
+        "last_name": "Brown",
+        "company_name": "North Shore Construction",
+        "phone": 6234567892,
+        "user_name": "mark_b",
+        "user_level": 3
+    },
+    {
+        "user_id": 7,
+        "user_email": "charlie.brown@aucklandconcrete.nz",
+        "first_name": "Charlie",
+        "last_name": "Brown",
+        "company_name": "Auckland Concrete Co.",
+        "phone": 6345678901,
+        "user_name": "charlie_b",
+        "user_level": 1
+    },
+    {
+        "user_id": 8,
+        "user_email": "emily.wilson@aucklandconcrete.nz",
+        "first_name": "Emily",
+        "last_name": "Wilson",
+        "company_name": "Auckland Concrete Co.",
+        "phone": 6345678902,
+        "user_name": "emily_w",
+        "user_level": 2
+    },
+    {
+        "user_id": 9,
+        "user_email": "susan.jones@aucklandconcrete.nz",
+        "first_name": "Susan",
+        "last_name": "Jones",
+        "company_name": "Auckland Concrete Co.",
+        "phone": 6345678903,
+        "user_name": "susan_j",
+        "user_level": 3
+    },
+    {
+        "user_id": 10,
+        "user_email": "dana.white@southernbuilding.nz",
+        "first_name": "Dana",
+        "last_name": "White",
+        "company_name": "Southern Building Group",
+        "phone": 6456789012,
+        "user_name": "dana_w",
+        "user_level": 1
+    },
+    {
+        "user_id": 11,
+        "user_email": "james.johnson@southernbuilding.nz",
+        "first_name": "James",
+        "last_name": "Johnson",
+        "company_name": "Southern Building Group",
+        "phone": 6456789013,
+        "user_name": "james_j",
+        "user_level": 2
+    },
+    {
+        "user_id": 12,
+        "user_email": "karen.martin@southernbuilding.nz",
+        "first_name": "Karen",
+        "last_name": "Martin",
+        "company_name": "Southern Building Group",
+        "phone": 6456789014,
+        "user_name": "karen_m",
+        "user_level": 3
+    },
+    {
+        "user_id": 13,
+        "user_email": "eve.davis@greenfieldconstruction.nz",
+        "first_name": "Eve",
+        "last_name": "Davis",
+        "company_name": "Greenfield Construction",
+        "phone": 6567890123,
+        "user_name": "eve_d",
+        "user_level": 1
+    },
+    {
+        "user_id": 14,
+        "user_email": "peter.taylor@greenfieldconstruction.nz",
+        "first_name": "Peter",
+        "last_name": "Taylor",
+        "company_name": "Greenfield Construction",
+        "phone": 6567890124,
+        "user_name": "peter_t",
+        "user_level": 2
+    },
+    {
+        "user_id": 15,
+        "user_email": "laura.lee@greenfieldconstruction.nz",
+        "first_name": "Laura",
+        "last_name": "Lee",
+        "company_name": "Greenfield Construction",
+        "phone": 6567890125,
+        "user_name": "laura_l",
+        "user_level": 3
+    },
+    {
+        "user_id": 16,
+        "user_email": "frank.miller@titanbuilders.nz",
+        "first_name": "Frank",
+        "last_name": "Miller",
+        "company_name": "Titan Builders",
+        "phone": 6678901234,
+        "user_name": "frank_m",
+        "user_level": 1
+    },
+    {
+        "user_id": 17,
+        "user_email": "sara.james@titanbuilders.nz",
+        "first_name": "Sara",
+        "last_name": "James",
+        "company_name": "Titan Builders",
+        "phone": 6678901235,
+        "user_name": "sara_j",
+        "user_level": 2
+    },
+    {
+        "user_id": 18,
+        "user_email": "ben.anderson@titanbuilders.nz",
+        "first_name": "Ben",
+        "last_name": "Anderson",
+        "company_name": "Titan Builders",
+        "phone": 6678901236,
+        "user_name": "ben_a",
+        "user_level": 3
+    },
+    {
+        "user_id": 19,
+        "user_email": "grace.lee@coastalhomes.nz",
+        "first_name": "Grace",
+        "last_name": "Lee",
+        "company_name": "Coastal Homes Ltd",
+        "phone": 6789012345,
+        "user_name": "grace_l",
+        "user_level": 1
+    },
+    {
+        "user_id": 20,
+        "user_email": "steve.wilson@coastalhomes.nz",
+        "first_name": "Steve",
+        "last_name": "Wilson",
+        "company_name": "Coastal Homes Ltd",
+        "phone": 6789012346,
+        "user_name": "steve_w",
+        "user_level": 2
+    },
+    {
+        "user_id": 21,
+        "user_email": "lisa.miller@coastalhomes.nz",
+        "first_name": "Lisa",
+        "last_name": "Miller",
+        "company_name": "Coastal Homes Ltd",
+        "phone": 6789012347,
+        "user_name": "lisa_m",
+        "user_level": 3
+    },
+    {
+        "user_id": 22,
+        "user_email": "hank.wilson@qualityconstructions.nz",
+        "first_name": "Hank",
+        "last_name": "Wilson",
+        "company_name": "Quality Constructions",
+        "phone": 6890123456,
+        "user_name": "hank_w",
+        "user_level": 1
+    },
+    {
+        "user_id": 23,
+        "user_email": "sandy.adams@qualityconstructions.nz",
+        "first_name": "Sandy",
+        "last_name": "Adams",
+        "company_name": "Quality Constructions",
+        "phone": 6890123457,
+        "user_name": "sandy_a",
+        "user_level": 2
+    },
+    {
+        "user_id": 24,
+        "user_email": "mike.brown@qualityconstructions.nz",
+        "first_name": "Mike",
+        "last_name": "Brown",
+        "company_name": "Quality Constructions",
+        "phone": 6890123458,
+        "user_name": "mike_b",
+        "user_level": 3
+    },
+    {
+        "user_id": 25,
+        "user_email": "ivy.clark@precisionbuilders.nz",
+        "first_name": "Ivy",
+        "last_name": "Clark",
+        "company_name": "Precision Builders",
+        "phone": 6901234567,
+        "user_name": "ivy_c",
+        "user_level": 1
+    },
+    {
+        "user_id": 26,
+        "user_email": "paul.johnson@precisionbuilders.nz",
+        "first_name": "Paul",
+        "last_name": "Johnson",
+        "company_name": "Precision Builders",
+        "phone": 6901234568,
+        "user_name": "paul_j",
+        "user_level": 2
+    },
+    {
+        "user_id": 27,
+        "user_email": "kate.lee@precisionbuilders.nz",
+        "first_name": "Kate",
+        "last_name": "Lee",
+        "company_name": "Precision Builders",
+        "phone": 6901234569,
+        "user_name": "kate_l",
+        "user_level": 3
+    },
+    {
+        "user_id": 28,
+        "user_email": "jack.harris@urbandevelopments.nz",
+        "first_name": "Jack",
+        "last_name": "Harris",
+        "company_name": "Urban Developments",
+        "phone": 7012345678,
+        "user_name": "jack_h",
+        "user_level": 1
+    },
+    {
+        "user_id": 29,
+        "user_email": "lucy.king@urbandevelopments.nz",
+        "first_name": "Lucy",
+        "last_name": "King",
+        "company_name": "Urban Developments",
+        "phone": 7012345679,
+        "user_name": "lucy_k",
+        "user_level": 2
+    },
+    {
+        "user_id": 30,
+        "user_email": "nina.jones@urbandevelopments.nz",
+        "first_name": "Nina",
+        "last_name": "Jones",
+        "company_name": "Urban Developments",
+        "phone": 7012345680,
+        "user_name": "nina_j",
+        "user_level": 3
+    },
+    {
+        "user_id": 31,
+        "user_email": "kate.young@skylineconstruction.nz",
+        "first_name": "Kate",
+        "last_name": "Young",
+        "company_name": "Skyline Construction",
+        "phone": 7123456789,
+        "user_name": "kate_y",
+        "user_level": 1
+    },
+    {
+        "user_id": 32,
+        "user_email": "leo.scott@skylineconstruction.nz",
+        "first_name": "Leo",
+        "last_name": "Scott",
+        "company_name": "Skyline Construction",
+        "phone": 7123456790,
+        "user_name": "leo_s",
+        "user_level": 2
+    },
+    {
+        "user_id": 33,
+        "user_email": "mia.turner@skylineconstruction.nz",
+        "first_name": "Mia",
+        "last_name": "Turner",
+        "company_name": "Skyline Construction",
+        "phone": 7123456791,
+        "user_name": "mia_t",
+        "user_level": 3
+    },
+    {
+        "user_id": 34,
+        "user_email": "noah.adams@nextgenconstructions.nz",
+        "first_name": "Noah",
+        "last_name": "Adams",
+        "company_name": "NextGen Constructions",
+        "phone": 7456789012,
+        "user_name": "noah_a",
+        "user_level": 1
+    },
+    {
+        "user_id": 35,
+        "user_email": "olivia.baker@nextgenconstructions.nz",
+        "first_name": "Olivia",
+        "last_name": "Baker",
+        "company_name": "NextGen Constructions",
+        "phone": 7456789013,
+        "user_name": "olivia_b",
+        "user_level": 2
+    },
+    {
+        "user_id": 36,
+        "user_email": "sam.mitchell@nextgenconstructions.nz",
+        "first_name": "Sam",
+        "last_name": "Mitchell",
+        "company_name": "NextGen Constructions",
+        "phone": 7456789014,
+        "user_name": "sam_m",
+        "user_level": 3
+    },
+    {
+        "user_id": 37,
+        "user_email": "paul.hall@stoneandsteel.nz",
+        "first_name": "Paul",
+        "last_name": "Hall",
+        "company_name": "Stone & Steel Ltd",
+        "phone": 7678901234,
+        "user_name": "paul_h",
+        "user_level": 1
+    },
+    {
+        "user_id": 38,
+        "user_email": "quinn.king@stoneandsteel.nz",
+        "first_name": "Quinn",
+        "last_name": "King",
+        "company_name": "Stone & Steel Ltd",
+        "phone": 7678901235,
+        "user_name": "quinn_k",
+        "user_level": 2
+    },
+    {
+        "user_id": 39,
+        "user_email": "riley.perez@stoneandsteel.nz",
+        "first_name": "Riley",
+        "last_name": "Perez",
+        "company_name": "Stone & Steel Ltd",
+        "phone": 7678901236,
+        "user_name": "riley_p",
+        "user_level": 3
+    },
+    {
+        "user_id": 40,
+        "user_email": "samantha.jones@landmarkbuilders.nz",
+        "first_name": "Samantha",
+        "last_name": "Jones",
+        "company_name": "Landmark Builders",
+        "phone": 7789012345,
+        "user_name": "samantha_j",
+        "user_level": 1
+    },
+    {
+        "user_id": 41,
+        "user_email": "victor.wong@landmarkbuilders.nz",
+        "first_name": "Victor",
+        "last_name": "Wong",
+        "company_name": "Landmark Builders",
+        "phone": 7789012346,
+        "user_name": "victor_w",
+        "user_level": 2
+    },
+    {
+        "user_id": 42,
+        "user_email": "tina.roberts@landmarkbuilders.nz",
+        "first_name": "Tina",
+        "last_name": "Roberts",
+        "company_name": "Landmark Builders",
+        "phone": 7789012347,
+        "user_name": "tina_r",
+        "user_level": 3
+    },
+    {
+        "user_id": 43,
+        "user_email": "rachel.miller@summitconstruction.nz",
+        "first_name": "Rachel",
+        "last_name": "Miller",
+        "company_name": "Summit Construction",
+        "phone": 7890123456,
+        "user_name": "rachel_m",
+        "user_level": 1
+    },
+    {
+        "user_id": 44,
+        "user_email": "aaron.smith@summitconstruction.nz",
+        "first_name": "Aaron",
+        "last_name": "Smith",
+        "company_name": "Summit Construction",
+        "phone": 7890123457,
+        "user_name": "aaron_s",
+        "user_level": 2
+    },
+    {
+        "user_id": 45,
+        "user_email": "martha.jones@summitconstruction.nz",
+        "first_name": "Martha",
+        "last_name": "Jones",
+        "company_name": "Summit Construction",
+        "phone": 7890123458,
+        "user_name": "martha_j",
+        "user_level": 3
+    },
+    {
+        "user_id": 46,
+        "user_email": "oliver.lee@innovativebuildingsolutions.nz",
+        "first_name": "Oliver",
+        "last_name": "Lee",
+        "company_name": "Innovative Building Solutions",
+        "phone": 7901234567,
+        "user_name": "oliver_l",
+        "user_level": 1
+    },
+    {
+        "user_id": 47,
+        "user_email": "zara.brown@innovativebuildingsolutions.nz",
+        "first_name": "Zara",
+        "last_name": "Brown",
+        "company_name": "Innovative Building Solutions",
+        "phone": 7901234568,
+        "user_name": "zara_b",
+        "user_level": 2
+    },
+    {
+        "user_id": 48,
+        "user_email": "benjamin.james@innovativebuildingsolutions.nz",
+        "first_name": "Benjamin",
+        "last_name": "James",
+        "company_name": "Innovative Building Solutions",
+        "phone": 7901234569,
+        "user_name": "benjamin_j",
+        "user_level": 3
+    },
+    {
+        "user_id": 49,
+        "user_email": "tina.roberts@heritageconstruction.nz",
+        "first_name": "Tina",
+        "last_name": "Roberts",
+        "company_name": "Heritage Construction",
+        "phone": 8002345678,
+        "user_name": "tina_r",
+        "user_level": 1
+    },
+    {
+        "user_id": 50,
+        "user_email": "henry.jones@heritageconstruction.nz",
+        "first_name": "Henry",
+        "last_name": "Jones",
+        "company_name": "Heritage Construction",
+        "phone": 8002345679,
+        "user_name": "henry_j",
+        "user_level": 2
+    },
+    {
+        "user_id": 51,
+        "user_email": "sophia.adams@heritageconstruction.nz",
+        "first_name": "Sophia",
+        "last_name": "Adams",
+        "company_name": "Heritage Construction",
+        "phone": 8002345680,
+        "user_name": "sophia_a",
+        "user_level": 3
+    },
+    {
+        "user_id": 52,
+        "user_email": "ella.green@sunrisebuilders.nz",
+        "first_name": "Ella",
+        "last_name": "Green",
+        "company_name": "Sunrise Builders",
+        "phone": 8113456789,
+        "user_name": "ella_g",
+        "user_level": 1
+    },
+    {
+        "user_id": 53,
+        "user_email": "alex.wilson@sunrisebuilders.nz",
+        "first_name": "Alex",
+        "last_name": "Wilson",
+        "company_name": "Sunrise Builders",
+        "phone": 8113456790,
+        "user_name": "alex_w",
+        "user_level": 2
+    },
+    {
+        "user_id": 54,
+        "user_email": "victoria.harris@sunrisebuilders.nz",
+        "first_name": "Victoria",
+        "last_name": "Harris",
+        "company_name": "Sunrise Builders",
+        "phone": 8113456791,
+        "user_name": "victoria_h",
+        "user_level": 3
+    },
+    {
+        "user_id": 55,
+        "user_email": "isabella.james@evergreenhomes.nz",
+        "first_name": "Isabella",
+        "last_name": "James",
+        "company_name": "Evergreen Homes",
+        "phone": 8224567890,
+        "user_name": "isabella_j",
+        "user_level": 1
+    },
+    {
+        "user_id": 56,
+        "user_email": "charles.mitchell@evergreenhomes.nz",
+        "first_name": "Charles",
+        "last_name": "Mitchell",
+        "company_name": "Evergreen Homes",
+        "phone": 8224567891,
+        "user_name": "charles_m",
+        "user_level": 2
+    },
+    {
+        "user_id": 57,
+        "user_email": "grace.harris@evergreenhomes.nz",
+        "first_name": "Grace",
+        "last_name": "Harris",
+        "company_name": "Evergreen Homes",
+        "phone": 8224567892,
+        "user_name": "grace_h",
+        "user_level": 3
+    },
+    {
+        "user_id": 58,
+        "user_email": "sofia.jones@skyviewbuilders.nz",
+        "first_name": "Sofia",
+        "last_name": "Jones",
+        "company_name": "Skyview Builders",
+        "phone": 8335678901,
+        "user_name": "sofia_j",
+        "user_level": 1
+    },
+    {
+        "user_id": 59,
+        "user_email": "elijah.adams@skyviewbuilders.nz",
+        "first_name": "Elijah",
+        "last_name": "Adams",
+        "company_name": "Skyview Builders",
+        "phone": 8335678902,
+        "user_name": "elijah_a",
+        "user_level": 2
+    },
+    {
+        "user_id": 60,
+        "user_email": "mason.wilson@skyviewbuilders.nz",
+        "first_name": "Mason",
+        "last_name": "Wilson",
+        "company_name": "Skyview Builders",
+        "phone": 8335678903,
+        "user_name": "mason_w",
+        "user_level": 3
+    }
+]
